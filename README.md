@@ -7,4 +7,6 @@ To format the results in the common template format the file the script toTempla
 
 # Main file
 The main file is: Jul17_Step2_sims_humidity.mlx
-Results will be saved in foloder: /augMats
+
+#Results 
+Will be saved in foloder: /augMats
